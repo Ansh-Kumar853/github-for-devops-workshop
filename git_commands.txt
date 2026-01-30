@@ -1,0 +1,53 @@
+    1  ls
+    2  ls -l
+    3  rm testing.py
+    4  clear
+    5  ls
+    6  clear
+    7  git init
+    8  dir
+    9  clear
+   10  ls -a
+   11  git --version
+   12  clear
+   13  git status
+   14  ls
+   15  clear
+   16  git status
+   17  clear
+   18  git status
+   19  clear
+   20  git add testing.py
+   21  git status
+   22  git status
+   23  git rm --cached testing.py to unstaged
+   24  git rm --cached testing.py
+   25  clear
+   26  git status
+   27  gt add testing.py
+   28  git add .
+   29  git status
+   30  git commit -m "added testing files"
+   31  clear
+   32  git status
+   33  git commit -m "adding files"
+   34  clear
+   35  git status
+   36  git commit -m "added testing files"
+   37  git config --global user.email "anshaggrawal122@gmail.com"
+   38  git config --global user.name "Ansh-kumar853"  
+   39  git commit -m "adding this file"
+   40  clear
+   41  git status
+   42  rm -v testing.py
+   43  clear
+   44  ls
+   45  git status
+   46  git restore testing.py
+   47  clear
+   48  yt
+   49  clear
+   50  ls
+   51  git status
+   52  clear
+   53  history
